@@ -1,19 +1,33 @@
-## Hi there 👋
 
-<!--
-**DiegoL01/DiegoL01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola , soy Diego!!
 
-Here are some ideas to get you started:
+## **Un Desarrollador Web Que Busca Transformar Ideas en Realidad Digital👾**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **¿Quién soy?**  
+Soy un apasionado de la tecnología y el desarrollo web . Aunque mi trayectoria profesional está comenzando, mi dedicación, capacidad de aprendizaje y enfoque obsesivo por la excelencia me convierten en el socio perfecto para proyectos que buscan **calidad, innovación y resultados concretos**.
+
+---
+
+### **¿Por qué trabajar conmígo?**  
+
+#### **1. Pasión por el código y la innovación**  
+Mi relación con el desarrollo web no es solo profesional, es **personal**. Paso horas investigando las últimas tendencias, ya que difruto los nuevos retos .  
+
+#### **2. Enfoque en resultados reales**  
+No me conformo con "hacerlo funcionar". Mi objetivo es crear soluciones que **escalen**, sean **intuitivas** y **generen valor** desde el primer día para esto aparto un poco de mi tiempo para analizr patrones de diseño.  
+
+#### **3. Comunicación transparente**  
+Creo en la **colaboración fluida**.Me satisface los buenos trabajos en equipo y mantener una buena comunicacion valga la redundancia .  
+
+#### **4. Compromiso con tu éxito**  
+Tu proyecto no es solo un trabajo para mí. Es una **oportunidad de impacto**. Me involucro hasta el último detalle, porque sé que tu éxito es mi mejor referencia.  
+
+---
+
+## 🛠 Skills
+Javascript , Typescript ,React , Next , HTML, CSS,Taildwind , Bootstrap...Y Aprendiendo😉
+
+
 <img src="https://github.com/user-attachments/assets/4d05c2db-38f4-4efe-a0bf-8c26d33fabe5" alt="Logo HTML" width="100" height="100" >
 <img src="https://github.com/user-attachments/assets/76f33a7c-872e-4ccf-ac2e-77ef6c73f5c5" alt="Logo CSS" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/06f3b4e1-4a2c-41dd-976e-e8d45e4811e3" alt="Logo Bootstrap" width="100" height="100">

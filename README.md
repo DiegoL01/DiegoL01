@@ -36,4 +36,4 @@ Javascript , Typescript ,React , Next , HTML, CSS,Taildwind , Bootstrap...Y Apre
 <img src="https://github.com/user-attachments/assets/15ed7121-5207-415a-8d82-abf4c7881e9b" alt="Logo Javascript" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/0fceb559-ebaa-436e-a9a0-c1e945e742eb" alt="Logo Typescript" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/5344bdbb-a9ad-4956-8870-789170d1d543" alt="Logo Next" width="100" height="100">
-<img src="https://github.com/user-attachments/assets/5344bdbb-a9ad-4956-8870-789170d1d543" alt="Logo Next" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/5344bdbb-a9ad-4956-8870-789170d1d543" alt="Logo React Native" width="100" height="100">

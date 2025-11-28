@@ -4,11 +4,11 @@
 ## **Un Desarrollador Web-Aplicaciones Que Busca Transformar Ideas en Realidad Digital👾**
 
 ### **¿Quién soy?**  
-Soy un apasionado de la tecnología y el desarrollo web . Aunque mi trayectoria profesional está comenzando, mi dedicación, capacidad de aprendizaje y enfoque obsesivo por la excelencia me convierten en el socio perfecto para proyectos que buscan **calidad, innovación y resultados concretos**.
+Soy un apasionado de la tecnología y el desarrollo web . Aunque mi trayectoria profesional está comenzando ya eh estado vinculado ah proyectos reales y colaborado con empresas como la Xetid y algunos clientes con los que eh trabajado como freelance, mi dedicación, capacidad de aprendizaje y enfoque obsesivo por la excelencia me convierten en el socio perfecto para proyectos que buscan **calidad, innovación y resultados concretos**.
 
 ---
 
-### **¿Por qué trabajar conmígo?**  
+### **¿Por qué trabajar conmigo?**  
 
 #### **1. Pasión por el código y la innovación**  
 Mi relación con el desarrollo web no es solo profesional, es **personal**. Paso horas investigando las últimas tendencias, ya que difruto los nuevos retos .  

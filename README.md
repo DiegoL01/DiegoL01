@@ -1,7 +1,7 @@
 
 # Hola , soy Diego!!
 
-## **Un Desarrollador Web Que Busca Transformar Ideas en Realidad Digital👾**
+## **Un Desarrollador Web-Aplicaciones Que Busca Transformar Ideas en Realidad Digital👾**
 
 ### **¿Quién soy?**  
 Soy un apasionado de la tecnología y el desarrollo web . Aunque mi trayectoria profesional está comenzando, mi dedicación, capacidad de aprendizaje y enfoque obsesivo por la excelencia me convierten en el socio perfecto para proyectos que buscan **calidad, innovación y resultados concretos**.
